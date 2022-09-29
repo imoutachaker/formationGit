@@ -1,2 +1,2 @@
 # formationGit
-# modifier le fichier word
+# modifier le fichier 
